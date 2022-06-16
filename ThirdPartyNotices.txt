@@ -1,0 +1,1 @@
+We do not use any third party assets in this project

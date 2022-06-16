@@ -1,0 +1,1 @@
+java -cp lib/jsfml.jar:. com/main/Main
